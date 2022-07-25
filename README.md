@@ -20,3 +20,8 @@
  leetcode 19.删除链表的倒数第N个节点
 
  leetcode 面试题 02.07. 链表相交
+
+ leetcode 142 环形链表 II
+
+### 哈希表
+leetcode 242 有效的字母异位词
