@@ -25,3 +25,12 @@
 
 ### 哈希表
 leetcode 242 有效的字母异位词
+
+leetcode 349 两个数组的交集
+
+leetcode 202 快乐数
+
+leetcode 1 两数之和
+
+leetcode 454 四数相加II
+
