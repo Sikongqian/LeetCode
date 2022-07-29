@@ -34,3 +34,8 @@ leetcode 1 两数之和
 
 leetcode 454 四数相加II
 
+leetcode 383 赎金信 
+
+leetcode 15 三数之和（此题介绍 Arrays 叔祖方法类的介绍，需要注意的是，这题的三指针法和排序去重方法值得一看）
+
+leetcode 18 四数之和（血的教训，注意测试用例长度，千万不能爆int）
