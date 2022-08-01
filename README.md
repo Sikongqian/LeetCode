@@ -39,3 +39,11 @@ leetcode 383 赎金信
 leetcode 15 三数之和（此题介绍 Arrays 叔祖方法类的介绍，需要注意的是，这题的三指针法和排序去重方法值得一看）
 
 leetcode 18 四数之和（血的教训，注意测试用例长度，千万不能爆int）
+
+### 字符串
+leetcode 541反转字符串II(注意，返回时返回new String(chArr) 不要返回 chArr.toString)
+
+leetcode 344 反转字符串(^是一种位运算符表示按位异或 可以用来交换数值 因为a^b^b=a b^a^a=b)
+
+JianzOffer 05 替换空格
+
