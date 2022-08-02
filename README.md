@@ -47,3 +47,11 @@ leetcode 344 反转字符串(^是一种位运算符表示按位异或 可以用�
 
 JianzOffer 05 替换空格
 
+leetcode 151 翻转字符串里的单词 （思路不是很清晰的话，代码实现就会遇到许多边界问题）(双反转解法很巧妙)
+
+JianzOffer 58-II.左旋转字符串 局部反转+整体反转 达到左旋转
+
+leetcode 28 实现 strStr() （kmp算法）
+
+leetcode 459 重复的子字符串 （kmp算法）
+
