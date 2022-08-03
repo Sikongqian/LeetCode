@@ -55,3 +55,10 @@ leetcode 28 实现 strStr() （kmp算法）
 
 leetcode 459 重复的子字符串 （kmp算法）
 
+###栈与队列
+leetcode 232.用栈实现队列
+
+leetcode 225. 用队列实现栈
+
+leetcode 20. 有效的括号 （一些优化方法）
+
